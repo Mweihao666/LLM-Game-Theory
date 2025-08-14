@@ -2,7 +2,6 @@
 
 ## Survey
 
----
 
 ### 2025
 
@@ -44,16 +43,9 @@
 
 ### 2023
 
-1. **[ALYMPICS: LLM Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)** [code](https://github.com/microsoft/Alympics)  
-   *Zhiwei Liu, Yue Jiang, Xiangyu Zhao, Junjie Ye, Weinan Zhang, Yong Yu.* Preprint '23.
+1. **[ALYMPICS: LLM Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)**  
+   *Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, Tao Ge, Furu Wei.* Preprint '23.
 
 2. **[Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis](https://arxiv.org/abs/2308.06180)**  
-   *Fan, L., Guo, W., Li, Y., Wang, X., Yu, T.* Preprint '23.
+   *Fan Lu, Weihao Guo, Yiqi Li, Xinyu Wang, Tianyu Yu.* Preprint '23.
 
----
-
-## Notes
-
-- 标题链接到官方论文页面（会议/期刊/arXiv）。
-- `[code]` 链接到对应的 GitHub 仓库（如有）。
-- 年份按倒序排列，同一年内可按相关性或关注度排序。
