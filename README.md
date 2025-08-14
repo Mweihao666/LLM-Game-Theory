@@ -26,19 +26,19 @@
 ### 2024
 
 1. **[GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations](https://proceedings.neurips.cc/paper_files/paper/2024/file/3191170938b6102e5c203b036b7c16dd-Paper-Conference.pdf)** [code](https://github.com/jinhaoduan/GTBench)  
-   *Jinhao Duan, Mengdi Xu, Hengrui Zhang, Jian Li, Yizhou Sun.* NeurIPS '24.
+   *Jinhao Duan, Renming Zhang, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Elias Stengel-Eskin, Mohit Bansal, Tianlong Chen, Kaidi Xu.* NeurIPS '24.
 
-2. **[Game-theoretic LLM: Agent Workflow for Negotiation Games](https://arxiv.org/abs/2411.05990)** [code](https://github.com/Wenyueh/game_theory)  
-   *Wenyue Huang, Jieyu Zhang, Zhiwei Chen, Weinan Zhang.* Preprint '24.
+2. **[Game-theoretic LLM: Agent Workflow for Negotiation Games](https://arxiv.org/abs/2411.05990)**  
+   *Wenyue Hua, Ollie Liu, Lingyao Li, Alfonso Amayuelas, Julie Chen, Lucas Jiang, Mingyu Jin, Lizhou Fan, Fei Sun, William Wang, Xintong Wang, Yongfeng Zhang.* Preprint '24.
 
 3. **[Strategic Behavior of Large Language Models and the Role of Game Structure versus Contextual Framing](https://www.nature.com/articles/s41598-024-69032-z)**  
-   *Hua Wei, Yichen Wang, Yong Li, Zhi Wang.* Scientific Reports '24.
+   *Nunzio Lorè, Babak Heydari.* Scientific Reports '24.
 
 4. **[Language Games, Game Theory, and Large Language Models: A Mathematical Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4963848)**  
-   *David A. Patterson, Samuel J. Gershman, Jacob Steinhardt.* SSRN '24.
+   *Miquel Noguer i Alonso.* SSRN '24.
 
 5. **[Autoformalizing and Simulating Game-Theoretic Scenarios using LLM-augmented Agents](https://pure.royalholloway.ac.uk/files/65087740/2412.08805v1.pdf)**  
-   *Mensfelt, T., Richardson, M., Kudenko, D.* Preprint '24.
+   *Agnieszka Mensfelt, Kostas Stathis, Vince Trencsenyi.* Preprint '24.
 
 ---
 
