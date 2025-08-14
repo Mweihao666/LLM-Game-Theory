@@ -26,6 +26,15 @@
 5. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
    *Quanyan Zhu.* Preprint '25.
 
+6. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Game Theory Meets Large Language Models: A Systematic Survey with Taxonomy and New Frontiers](https://arxiv.org/abs/2502.09053)**  
+   *Haoran Sun, Yusen Wu, Peng Wang, Wei Chen, Yukun Cheng, Xiaotie Deng, Xu Chu.* Preprint '25.
+
+7. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Who’s the MVP? A Game-Theoretic Evaluation Benchmark for Modular Attribution in LLM Agents](https://arxiv.org/abs/2502.00510)** [code](https://github.com/yangyingxuan10/MVP-Bench)  
+   *Yingxuan Yang, Bo Huang, Siyuan Qi, Chao Feng, Haoyi Hu, Yuxuan Zhu, Jinbo Hu, Haoran Zhao, Ziyi He, Xiao Liu, Zongyu Wang, Lin Qiu, Xuezhi Cao, Xunliang Cai, Yong Yu, Weinan Zhang.* Preprint '25.
+
+8. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Reasoning and Behavioral Equilibria in LLM-Nash Games: From Mindsets to Actions](https://arxiv.org/abs/2507.08208)**  
+   *Quanyan Zhu.* Preprint '25.
+
 ---
 
 ### 2024
@@ -44,6 +53,9 @@
 
 5. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Autoformalizing and Simulating Game-Theoretic Scenarios using LLM-augmented Agents](https://pure.royalholloway.ac.uk/files/65087740/2412.08805v1.pdf)**  
    *Agnieszka Mensfelt, Kostas Stathis, Vince Trencsenyi.* Preprint '24.
+
+6. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Steering Language Models with Game-Theoretic Solvers](https://arxiv.org/abs/2402.01704)** [code](https://github.com/deepmind/gt-solver-lm)  
+   *Ian Gemp, Roma Patel, Yoram Bachrach, Marc Lanctot, Vibhavari Dasagi, Luke Marris, Georgios Piliouras, Siqi Liu, Karl Tuyls.* Preprint '24.
 
 ---
 
