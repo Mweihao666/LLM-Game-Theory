@@ -7,20 +7,20 @@
 ### 2025
 
 1. **[From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium](https://arxiv.org/abs/2506.08292)** [code](https://github.com/tmlr-group/ECON)  
-   *Yue Zhang, Mengqi Zhang, Xiang Li, Yubo Wang, Kaiqiang Xu, Hailin Zhang, Ziqi Chen, Xinbing Wang.* Preprint '25.
+   *Xie Yi, Zhanke Zhou, Chentao Cao, Qiyu Niu, Tongliang Liu, Bo Han.* ICML '25.
 
-2. **[Competing Large Language Models in Multi-Agent Gaming Environments (GAMABench)](https://openreview.net/forum?id=DI4gW8viB6)**  
-   *Jiaqi Ma, Yuejiang Liu, Tianhao Wang, Wenhao Liu, Hao Dong.* ICLR '25.
+2. **[Competing Large Language Models in Multi-Agent Gaming Environments (GAMABench)](https://openreview.net/forum?id=DI4gW8viB6)** [code](https://github.com/CUHK-ARISE/GAMABench)  
+   *Jen-tse Huang, Eric John Li, Man Ho Lam, Tian Liang, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Michael Lyu.* ICLR '25.
 
-3. **[Can LLMs Effectively Provide Game-Theoretic Strategies?](https://arxiv.org/abs/2508.05670)**  
-   *Jiawei Zhou, Chenxi Sun, Xinyu Wei, Jian Gao, Zhiwei Qin, Lei Chen.* Preprint '25.
+3. **[Can LLMs Effectively Provide Game-Theoretic-Based Scenarios for Cybersecurity?](https://arxiv.org/abs/2508.05670)**  
+   *Daniele Proverbio, Alessio Buscemi, Alessandro Di Stefano, The Anh Han, German Castignani, Pietro Liò.* Preprint '25.
 
 4. **[Playing Repeated Games with Large Language Models](https://www.nature.com/articles/s41562-025-02172-y)**  
    *Elif Akata, Lion Schulz, Julian Coda-Forno, Seong Joon Oh, Matthias Bethge, Eric Schulz.* Nature Human Behaviour '25.
 
 5. **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
-   *Chenguang Lu, Wei Liu, Yifan Zhang, Zhiqiang Li, Xiaofeng Wang.* Preprint '25.
-
+   *Quanyan Zhu.* Preprint '25.
+   
 ---
 
 ### 2024
