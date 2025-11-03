@@ -62,9 +62,8 @@
 17. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
 *Pedro M. P. Curvo.* Preprint '25.
 
-
 18. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Rationality Emerges in Simulated Markets with Large Language Model Agents](https://arxiv.org/abs/2412.13101)**  
-*Yuqing Zhang, Hao Zhou, Wenhan Wang, Xu Han, Xin Luna Dong.* NeurIPS Workshop on LLM Agents '24 (appeared in '25 updates).![Uploading image.png…]()
+*Yuqing Zhang, Hao Zhou, Wenhan Wang, Xu Han, Xin Luna Dong.* NeurIPS Workshop on LLM Agents '24 (appeared in '25 updates).!
 
 
 ---
