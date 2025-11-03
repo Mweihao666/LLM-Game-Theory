@@ -35,35 +35,20 @@
 8. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Reasoning and Behavioral Equilibria in LLM-Nash Games: From Mindsets to Actions](https://arxiv.org/abs/2507.08208)**  
    *Quanyan Zhu.* Preprint '25.
 
-9. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLM-Arena: Benchmarking Large Language Models as Multi-Agent Strategists](https://arxiv.org/abs/2508.12109)**  
-*Zijun Wang, Bowen Zhang, Mengyuan Zhao, Kaiyang Zhou, Liang Li, Zhenguo Li.* Preprint '25.
-
-10. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[NegotiationGPT: Context-Adaptive Bargaining with Large Language Models](https://arxiv.org/abs/2506.06347)**  
-*Yuxuan Li, Tianhao Wu, Bowen Shi, Wenhao Huang, Xinrun Li, Yitong Li, Heng Ji.* ACL Findings '25 (submitted).
-
-11. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Social Alignment or Strategic Manipulation? Evaluating Cooperative Intent in Multi-Agent LLMs](https://arxiv.org/abs/2505.18742)**  
-*Qingyu Zhao, Zixuan Xu, Fangzhou Mu, Haotian Li, Ruixiang Zhang, Tengyu Ma.* Preprint '25.
-
-12. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Mechanism-Designed Prompting: Using Game-Theoretic Incentives to Steer LLM Behaviors](https://arxiv.org/abs/2503.09875)**  
-*Ananya Gupta, Ruochen Xu, Zhiyuan Li, Jason Lee.* ICLR under review '25.
-
-13. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://arxiv.org/abs/2508.11915)**  
+9. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://arxiv.org/abs/2508.11915)**  
 *Punya Syon Pandey, Yongjin Yang, Jiarui Liu, Zhijing Jin.* Preprint '25.
 
-14. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation](https://arxiv.org/abs/2506.04251)**  
+11. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation](https://arxiv.org/abs/2506.04251)**  
 *Zhengyang Li.* Preprint '25.
 
-15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models](https://arxiv.org/abs/2507.02002)**  
+12. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models](https://arxiv.org/abs/2507.02002)**  
 *Shaurya Mallampati, Rashed Shelim, Walid Saad, Naren Ramakrishnan.* Preprint '25.
 
-16. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
+13. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
 *Quanyan Zhu.* Preprint '25.
 
-17. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
+14. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
 *Pedro M. P. Curvo.* Preprint '25.
-
-18. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Rationality Emerges in Simulated Markets with Large Language Model Agents](https://arxiv.org/abs/2412.13101)**  
-*Yuqing Zhang, Hao Zhou, Wenhan Wang, Xu Han, Xin Luna Dong.* NeurIPS Workshop on LLM Agents '24 (appeared in '25 updates).!
 
 
 ---
