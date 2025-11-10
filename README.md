@@ -56,6 +56,15 @@
 15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Opponent Shaping in LLM Agents](https://arxiv.org/abs/2510.08255)**  
 *Marta Emili Garcia Segura, Stephen Hailes, Mirco Musolesi.* Preprint ’25.
 
+16. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[TextArena: Benchmarking Large Language Models via Multi-Agent Text Games](https://arxiv.org/abs/2504.11442)** [code](https://github.com/LeonGuertler/TextArena)  
+*Leon Guertler, Marius Bauer, Lukas Hermann, Jannis Ritz, Pascal Schwenger, Jonas Rückerl, Enrico Ajanovic, Sebastian Risi, Leonhard Herten, Tim Landgraf.* Preprint '25.
+
+17. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[PokerBench: Training Large Language Models to Become Professional Poker Players](https://arxiv.org/abs/2501.08328)** [code](https://github.com/pokerllm/pokerbench)  
+*Qiming Bao, Yijia Shao, Shuai Li, Wenhan Wang, Zhiyong Wang.* AAAI '25.
+
+18. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[LLM-Based Explicit Models of Opponents for Multi-Agent Games](https://aclanthology.org/2025.naacl-long.41/)**  
+*Xinpeng Yu, Tian Lan, Hengyuan Hu, Feng Wu.* NAACL '25.
+
 
 
 ---
