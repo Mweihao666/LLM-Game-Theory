@@ -38,22 +38,22 @@
 9. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://arxiv.org/abs/2508.11915)**  
 *Punya Syon Pandey, Yongjin Yang, Jiarui Liu, Zhijing Jin.* Preprint '25.
 
-11. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation](https://arxiv.org/abs/2506.04251)**  
+10. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation](https://arxiv.org/abs/2506.04251)**  
 *Zhengyang Li.* Preprint '25.
 
-12. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models](https://arxiv.org/abs/2507.02002)**  
+11. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Dynamic Strategy Adaptation in Multi-Agent Environments with Large Language Models](https://arxiv.org/abs/2507.02002)**  
 *Shaurya Mallampati, Rashed Shelim, Walid Saad, Naren Ramakrishnan.* Preprint '25.
 
-13. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
+12. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Theory Meets LLM and Agentic AI: Reimagining Cybersecurity for the Age of Intelligent Threats](https://arxiv.org/abs/2507.10621)**  
 *Quanyan Zhu.* Preprint '25.
 
-14. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
+13. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
 *Pedro M. P. Curvo.* Preprint '25.
 
-15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[From Natural Language to Extensive-Form Game Representations](https://arxiv.org/abs/2501.17282)**  
+14. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[From Natural Language to Extensive-Form Game Representations](https://arxiv.org/abs/2501.17282)**  
 *Shilong Deng, Yongzhao Wang, Rahul Savani.* AAMAS ’25.
 
-16. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Opponent Shaping in LLM Agents](https://arxiv.org/abs/2510.08255)**  
+15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Opponent Shaping in LLM Agents](https://arxiv.org/abs/2510.08255)**  
 *Marta Emili Garcia Segura, Stephen Hailes, Mirco Musolesi.* Preprint ’25.
 
 
