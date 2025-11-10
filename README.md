@@ -50,11 +50,12 @@
 14. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](https://arxiv.org/abs/2505.12923)**  
 *Pedro M. P. Curvo.* Preprint '25.
 
-15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[From Natural Language to Extensive-Form Game Representations](https://aclanthology.org/2025.naacl-long.41/)**  
-*Zhenting Qi, Hanjie Chen, Heng Ji, Mohit Bansal.* NAACL '25.
+15. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[From Natural Language to Extensive-Form Game Representations](https://arxiv.org/abs/2501.17282)**  
+*Shilong Deng, Yongzhao Wang, Rahul Savani.* AAMAS ’25.
 
-16. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Opponent Shaping in LLM Agents](https://arxiv.org/abs/2501.08328)**  
-*Carlos Segura, Yiren Wang, Jifan Zhang, Yizhou Sun, Daniel S. Weld, Yuke Zhu.* Preprint '25.
+16. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Opponent Shaping in LLM Agents](https://arxiv.org/abs/2510.08255)**  
+*Marta Emili Garcia Segura, Stephen Hailes, Mirco Musolesi.* Preprint ’25.
+
 
 
 ---
