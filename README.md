@@ -65,6 +65,13 @@
 18. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[LLM-Based Explicit Models of Opponents for Multi-Agent Games](https://aclanthology.org/2025.naacl-long.41/)**  
 *Xinpeng Yu, Tian Lan, Hengyuan Hu, Feng Wu.* NAACL '25.
 
+19. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) [Large language models replicate and predict human cooperation across experiments in game theory](https://arxiv.org/abs/2511.04500)  
+Guillem Palatsi, David Rein, Ruggiero Cavallo, Kevin Teng, Kevin R. McKee, Ethan Fast, Jonathan S. Rosoff, Michael A. Page. Preprint '25.
+
+20. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) [Everyone Contributes! Incentivizing Strategic Cooperation in Multi-LLM Systems via Sequential Public Goods Games](https://arxiv.org/abs/2508.02076)  
+Yun-Ya Liang, Weize Li, Yang Yun, Chenlu Ye, Jianhao Mao, Jiacheng Ye, Tianyu Li, Zhilin Yang. Preprint '25.
+
+
 
 
 ---
@@ -88,6 +95,15 @@
 
 6. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Steering Language Models with Game-Theoretic Solvers](https://arxiv.org/abs/2402.01704)** [code](https://github.com/deepmind/gt-solver-lm)  
    *Ian Gemp, Roma Patel, Yoram Bachrach, Marc Lanctot, Vibhavari Dasagi, Luke Marris, Georgios Piliouras, Siqi Liu, Karl Tuyls.* Preprint '24.
+
+7. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) [Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation](https://arxiv.org/abs/2309.17234)  
+Sahar Abdelnabi, Amr Gomaa, Sarath Sivaprasad, Lea Schönherr, Mario Fritz. Preprint '24.
+
+8. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) [How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis](https://arxiv.org/abs/2402.05863)  
+Federico Bianchi, Patrick John Chia, Mert Yuksekgonul, Jacopo Tagliabue, Dan Jurafsky, James Zou. Preprint '24.
+
+9. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) [LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games](https://montrealethics.ai/llm-deliberation-evaluating-llms-with-interactive-multi-agent-negotiation-games/)  
+Research Summary of Sahar Abdelnabi et al.'s paper (2024).
 
 ---
 
