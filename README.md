@@ -74,7 +74,7 @@
 21. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Game of Thoughts: Iterative Reasoning in Game-Theoretic Domains with Large Language Models](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p1088.pdf)**  
 *Zehui Xie, Lang Wang, Rui Wang, Huan Sun, Yizhou Sun.* AAMAS '25.
 
-22. 1. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory](https://arxiv.org/abs/2502.20432)**  
+22.  ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory](https://arxiv.org/abs/2502.20432)**  
 *Jingru Jia, Zehua Yuan, Junhao Pan, Paul E. McNamara, Deming Chen.* Preprint '25.
 
 ---
