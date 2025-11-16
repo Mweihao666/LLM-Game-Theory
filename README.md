@@ -75,8 +75,10 @@
 *Zehui Xie, Lang Wang, Rui Wang, Huan Sun, Yizhou Sun.* AAMAS '25.
 
 22. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory](https://arxiv.org/abs/2502.20432)**  
-*Kaiyan Li, William C. Chen, Arthur Stein, Rafael Penaloza, Jielu Zhu.* Preprint ’25.
+*Jingru Jia, Zehua Yuan, Junhao Pan, Paul E. McNamara, Deming Chen.* NeurIPS ’25. :contentReference[oaicite:0]{index=0}
 
+23. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/abs/2407.00617)**  
+*Yuheng Zhang, Dian Yu, Baolin Peng, Linfeng Song, Ye Tian, Mingyue Huo, Nan Jiang, Haitao Mi, Dong Yu.* ICLR ’25 (Preprint ’24) :contentReference[oaicite:1]{index=1}
 
 
 ---
@@ -107,16 +109,11 @@
 8. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis](https://arxiv.org/abs/2402.05863)**  
 *Federico Bianchi, Patrick John Chia, Mert Yuksekgonul, Jacopo Tagliabue, Dan Jurafsky, James Zou.* Preprint '24.
 
-9. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning](https://arxiv.org/abs/2407.00617)**  
-*Erdem Biyikli, Xinkun Nie, Jonathan Mei, Hao Zhu, Brandon Lake.* arXiv ’24.
+9. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Large Language Models Playing Mixed Strategy Nash Equilibrium Games](https://arxiv.org/abs/2406.10574)**  
+*Alonso Silva.* Preprint ’24. :contentReference[oaicite:2]{index=2}
 
-10. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Large Language Models Playing Mixed Strategy Nash Equilibrium Games](https://arxiv.org/abs/2406.10574)**  
-*Ayush Manish, Yifei Min, Ethan Zell, Aaron Roth.* arXiv ’24.
-
-11. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://aclanthology.org/2024.emnlp-main.416/)**  
-*Hanlin Zhang, Xiangyu Zhang, Xiaoheng Chen, Shizhe Diao, Bingxuan Wang, Tongliang Liu, Tianyi Zhou.* EMNLP ’24.
-
-12. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games](https://arxiv.org/abs/2407.04467)**  
+10. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games](https://arxiv.org/abs/2407.04467)**  
+*Sergio Canu, Marco De Nadai, Bruno Lepri.* Preprint ’24. :contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -127,3 +124,6 @@
 
 2. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis](https://arxiv.org/abs/2308.06180)**  
    *Fan Lu, Weihao Guo, Yiqi Li, Xinyu Wang, Tianyu Yu.* Preprint '23.
+
+3. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://arxiv.org/abs/2311.08562)**  
+*Lin Xu, Zhiyuan Hu, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutzer, See Kiong Ng, Jiashi Feng.* Preprint ’23. :contentReference[oaicite:3]{index=3}
