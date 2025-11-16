@@ -112,8 +112,7 @@
 *Alonso Silva.* Preprint '24.
 
 11. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games](https://arxiv.org/abs/2407.04467)**  
-*Sergio Canu, Marco De Nadai, Bruno Lepri.* Preprint '24.
-
+*Nathan Herr, Fernando Acero, Roberta Raileanu, María Pérez-Ortiz, Zhibin Li.* Preprint '24.
 
 ---
 
