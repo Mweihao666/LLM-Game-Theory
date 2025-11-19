@@ -134,4 +134,4 @@
 *Lin Xu, Zhiyuan Hu, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutzer, See Kiong Ng, Jiashi Feng.* Preprint '23.
 
 4. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[RSPO: Regularized Self-Play Alignment of Large Language Models](https://arxiv.org/abs/2308.10447)**  
-  *Yuan Gao, Jian Guan, Zhengbao Jiang, Lianhui Qin, Yizhe Zhang, Wei Ping, He He, Yiming Yang.* NeurIPS '23.
+  *Xiaohang Tang, Sangwoong Yoon, Seongho Son, Huizhuo Yuan, Quanquan Gu, Ilija Bogunovic.* NeurIPS '23.
