@@ -78,7 +78,7 @@
 *Jingru Jia, Zehua Yuan, Junhao Pan, Paul E. McNamara, Deming Chen.* Preprint '25.
 
 23. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)**  
-  *Yiyang Xie, Yuchen Ma, Siyuan Lan, Alan Yuille, Jianbo Xiao, Chen Wei.* Preprint '25.
+  *Yunfei Xie, Yinsong Ma, Shiyi Lan, Alan Yuille, Junfei Xiao, Chen Wei.* Preprint '25.
 
 24. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**  
   *Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques.* Preprint '25.
