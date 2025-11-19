@@ -77,6 +77,12 @@
 22.  ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLM Strategic Reasoning: Agentic Study through Behavioral Game Theory](https://arxiv.org/abs/2502.20432)**  
 *Jingru Jia, Zehua Yuan, Junhao Pan, Paul E. McNamara, Deming Chen.* Preprint '25.
 
+23. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)**  
+  *Yiyang Xie, Yuchen Ma, Siyuan Lan, Alan Yuille, Jianbo Xiao, Chen Wei.* Preprint '25.
+
+24. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**  
+  *Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques.* Preprint '25.
+
 ---
 
 ### 2024
@@ -126,3 +132,6 @@
 
 3. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://arxiv.org/abs/2311.08562)**  
 *Lin Xu, Zhiyuan Hu, Daquan Zhou, Hongyu Ren, Zhen Dong, Kurt Keutzer, See Kiong Ng, Jiashi Feng.* Preprint '23.
+
+4. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[RSPO: Regularized Self-Play Alignment of Large Language Models](https://arxiv.org/abs/2308.10447)**  
+  *Yuan Gao, Jian Guan, Zhengbao Jiang, Lianhui Qin, Yizhe Zhang, Wei Ping, He He, Yiming Yang.* NeurIPS '23.
