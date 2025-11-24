@@ -83,6 +83,9 @@
 24. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)**  
   *Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques.* Preprint '25.
 
+25. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[FAIRGAME: a Framework for AI Agents Bias Recognition using Game Theory](https://arxiv.org/abs/2504.14325)**  
+  *Alessio Buscemi, Daniele Proverbio, Alessandro Di Stefano, The Anh Han, German Castignani, Pietro Liò '25.
+
 ---
 
 ### 2024
@@ -119,6 +122,9 @@
 
 11. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games](https://arxiv.org/abs/2407.04467)**  
 *Nathan Herr, Fernando Acero, Roberta Raileanu, María Pérez-Ortiz, Zhibin Li.* Preprint '24.
+
+12. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Game Development as Human-LLM Interaction](https://aclanthology.org/2025.acl-long.218.pdf)**  
+  *Jiale Hong, Hongqiu Wu, Hai Zhao '24.
 
 ---
 
