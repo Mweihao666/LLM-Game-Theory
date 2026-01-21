@@ -86,6 +86,23 @@
 25. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[FAIRGAME: a Framework for AI Agents Bias Recognition using Game Theory](https://arxiv.org/abs/2504.14325)**  
   *Alessio Buscemi, Daniele Proverbio, Alessandro Di Stefano, The Anh Han, German Castignani, Pietro Liò '25.
 
+26. ![Enhance: Game for LLM](https://img.shields.io/badge/Enhance%3A%20Game%20for%20LLM-FF4500) **[Super-additive Cooperation in Language Model Agents](https://arxiv.org/abs/2508.15510)**
+
+*Filippo Tonini, Lukas Galke.* Preprint ’25.
+
+27. ![Evaluate](https://img.shields.io/badge/Evaluate-1E90FF) **[LLMs as Strategic Agents: Beliefs, Best Response Behavior, and Emergent Heuristics](https://arxiv.org/abs/2510.10813)**
+
+*Enric Junque de Fortuny, Veronica Roberta Cappelli.* Preprint ’25.
+
+28. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Fundamental Limits of Game-Theoretic LLM Alignment: Smith Consistency and Preference Matching](https://arxiv.org/abs/2505.20627)**
+
+*Zhekun Shi, Kaizhao Liu, Qi Long, Weijie J. Su, Jiancong Xiao.* Preprint ’25.
+
+29. ![Enhance: LLM for Game](https://img.shields.io/badge/Enhance%3A%20LLM%20for%20Game-FF8C00) **[Improving LLM General Preference Alignment via Optimistic Online Mirror Descent](https://arxiv.org/abs/2502.16852)**
+
+*Yuheng Zhang, Dian Yu, Tao Ge, Linfeng Song, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu.* Preprint ’25.
+
+
 ---
 
 ### 2024
